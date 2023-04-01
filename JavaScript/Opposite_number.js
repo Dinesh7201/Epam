@@ -11,9 +11,7 @@ Examples:
 14: -14
 -34: 34
  */
-public class  Opposite_number {
-    public static double opposite(double number) {
-        return -number;
-    }
+function opposite(number) {
+  return -number;
 }
 
